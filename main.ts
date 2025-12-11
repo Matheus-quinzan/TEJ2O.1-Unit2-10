@@ -18,7 +18,7 @@ neopixelStrip.setPixelColor(0, neopixel.colors(NeoPixelColors.Black))
 neopixelStrip.setPixelColor(0, neopixel.colors(NeoPixelColors.Black))
 neopixelStrip.setPixelColor(0, neopixel.colors(NeoPixelColors.Black))
 neopixelStrip.show()
-basic.showIcon(IconNames.Happy)
+basic.showIcon(IconNames.Duck)
 
 input.onButtonPressed(Button.A, function () {
     // get light level
